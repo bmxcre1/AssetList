@@ -1,0 +1,38 @@
+{
+"Test" : {
+  "Extension" : "ZIP",
+  "Size" : "83.53 MB",
+  "Type" : "Secondary",
+  "Source" : "https://polyhaven.com/a/stone_wall_04",
+  "Completed" : true
+},
+"Test" : {
+  "Extension" : "ZIP",
+  "Size" : "85.43 MB",
+  "Type" : "Secondary",
+  "Source" : "https://polyhaven.com/a/stone_tiles_02",
+  "Completed" : true
+},
+
+"Test" : {
+  "Extension" : "FBX",
+  "Size" : "0.00 MB",
+  "Type" : "Primary",
+  "Source" : "",
+  "Completed" : false
+},
+"Test" : {
+  "Extension" : "FBX",
+  "Size" : "101.00 KB",
+  "Type" : "Primary",
+  "Source" : "",
+  "Completed" : true
+},
+"Test" : {
+  "Extension" : "PNG",
+  "Size" : "1004.00 KB",
+  "Type" : "Primary",
+  "Source" : "",
+  "Completed" : true
+}
+}
