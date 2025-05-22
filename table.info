@@ -6,11 +6,11 @@
   "Source" : "https://polyhaven.com/a/long_white_tiles",
   "Completed" : true
 },
-"Test" : {
+"Concrete Wall" : {
   "Extension" : "ZIP",
-  "Size" : "85.43 MB",
+  "Size" : "68.71 MB",
   "Type" : "Secondary",
-  "Source" : "https://polyhaven.com/a/stone_tiles_02",
+  "Source" : "https://polyhaven.com/a/concrete_wall_004",
   "Completed" : true
 },
 
