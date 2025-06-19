@@ -16,16 +16,16 @@
 
 "Conical Flask" : {
   "Extension" : "FBX",
-  "Size" : "56 KB",
+  "Size" : "56.00 KB",
   "Type" : "Secondary",
   "Source" : "https://sketchfab.com/3d-models/free-conical-flask-laboratory-low-poly-f2991abcaaa44616ad5f72d29a3d47b3#download",
   "Completed" : true
 },
-"Test" : {
-  "Extension" : "FBX",
-  "Size" : "101.00 KB",
-  "Type" : "Primary",
-  "Source" : "",
+"Lab Table" : {
+  "Extension" : "ZIP",
+  "Size" : "2462.00 KB",
+  "Type" : "Secondary",
+  "Source" : "https://sketchfab.com/3d-models/hexagon-sicence-lab-table-72652283879c48ccbd43b6060e9d2811",
   "Completed" : true
 },
 "Test" : {
